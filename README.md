@@ -11,6 +11,15 @@
 - 支持旋钮、OLED屏幕、RGB底灯、RGB轴灯
 - 固件开源并不断更新完善,可自行编译固件
 
+💬 <span id="联系我们">联系我们</span>
+----------------
+
+💬 QQ群：[38491793 ](https://jq.qq.com/?_wv=1027&k=wO76pWWU) | [619175701 ](https://jq.qq.com/?_wv=1027&k=PErENtHj)
+
+📫 淘宝店铺: [https://glab.taobao.com/](https://glab.taobao.com/)
+
+💬 淘宝客服 [联系客服](https://amos.alicdn.com/getcid.aw?site=cntaobao&uid=genokolar:售前)
+
 <!--
 **genokolar/genokolar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
